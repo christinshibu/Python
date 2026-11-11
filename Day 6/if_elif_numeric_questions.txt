@@ -1,0 +1,99 @@
+1. Check whether 7 is positive.
+2. Check whether 12 is negative.
+3. Check whether 0 is zero.
+4. Check whether 18 is even.
+5. Check whether 25 is odd.
+6. Check whether 45 is greater than 23.
+7. Check whether 16 is smaller than 31.
+8. Check whether 40 is greater than or equal to 40.
+9. Check whether 22 is smaller than or equal to 35.
+10. Check whether 19 is equal to 19.
+11. Check whether 36 is divisible by 6.
+12. Check whether 37 is not divisible by 5.
+13. Check whether 48 is a multiple of 8.
+14. Check whether 50 is not a multiple of 7.
+15. Check whether 25 is between 10 and 40.
+16. Check whether 55 is outside the range 20 to 45.
+17. Check whether 80 is greater than both 35 and 60.
+18. Check whether 12 is smaller than both 20 and 30.
+19. Check whether 15 is equal to either 15 or 25.
+20. Check whether 20 is different from both 10 and 30.
+21. Check whether the sum of 8 and 14 is positive.
+22. Check whether the sum of 11 and 13 is even.
+23. Check whether the sum of 42 and 7 is divisible by 7.
+24. Check whether the difference between 25 and 10 is positive.
+25. Check whether the difference between 18 and 6 is even.
+26. Check whether the product of 7 and 9 is positive.
+27. Check whether the product of 12 and -5 is negative.
+28. Check whether the product of 36 and 6 is divisible by 6.
+29. Check whether 45 is a two-digit number.
+30. Check whether 125 is a three-digit number.
+31. Check whether 150 is greater than 100.
+32. Check whether 75 is smaller than 100.
+33. Check whether 600 is greater than 500.
+34. Check whether 250 is smaller than 500.
+35. Check whether 72 is divisible by both 8 and 9.
+36. Check whether 35 is divisible by either 6 or 7.
+37. Check whether 25 is greater than 10 but smaller than 40.
+38. Check whether 15 is smaller than 30 but greater than 5.
+39. Check whether 12 and 18 have the same parity.
+40. Check whether 21 and 9 have different parity.
+41. Check whether 18 is exactly twice 9.
+42. Check whether 24 is exactly three times 8.
+43. Check whether 8 is half of 16.
+44. Check whether 49 is the square of 7.
+45. Check whether 60 is greater than the sum of 20 and 30.
+46. Check whether 10 is smaller than the sum of 20 and 5.
+47. Check whether 100 is equal to the difference of 120 and 20.
+48. Check whether 72 is greater than the product of 8 and 8.
+49. Check whether 72 is smaller than the product of 10 and 8.
+50. Check whether 72 is divisible by the sum of 8 and 4.
+51. For 7, print 1 if it is positive, otherwise print 2 if it is negative, otherwise print 3.
+52. For 18, print 1 if it is even, otherwise print 2 if it is odd.
+53. For 65, print 1 if it is greater than 50, otherwise print 2 if it is equal to 50, otherwise print 3.
+54. For 25, print 1 if it is divisible by 3, otherwise print 2 if it is divisible by 5, otherwise print 3.
+55. For 14, print 1 if it is below 10, otherwise print 2 if it is between 10 and 20, otherwise print 3.
+56. For 0, print 1 if it is zero, otherwise print 2 if it is positive, otherwise print 3.
+57. For 37, print 1 if it is less than 25, otherwise print 2 if it is less than 50, otherwise print 3.
+58. For 21, print 1 if it is divisible by 2, otherwise print 2 if it is divisible by 3, otherwise print 3.
+59. For 75, print 1 if it is greater than 100, otherwise print 2 if it is between 50 and 100, otherwise print 3.
+60. For 105, print 1 if it is a one-digit number, otherwise print 2 if it is a two-digit number, otherwise print 3.
+61. For 18, print 1 if it is divisible by 4, otherwise print 2 if it is divisible by 6, otherwise print 3.
+62. For -4, print 1 if it is below 0, otherwise print 2 if it is below 100, otherwise print 3.
+63. For 27, print 1 if it is odd, otherwise print 2 if it is divisible by 4, otherwise print 3.
+64. For 150, print 1 if it is greater than 200, otherwise print 2 if it is greater than 100, otherwise print 3.
+65. For 63, print 1 if it is divisible by 7, otherwise print 2 if it is divisible by 9, otherwise print 3.
+66. For -9, print 1 if it is less than 0, otherwise print 2 if it is equal to 0, otherwise print 3.
+67. For 15, print 1 if it is between 1 and 10, otherwise print 2 if it is between 11 and 20, otherwise print 3.
+68. For 40, print 1 if it is a multiple of 10, otherwise print 2 if it is a multiple of 5, otherwise print 3.
+69. For 350, print 1 if it is greater than 500, otherwise print 2 if it is greater than 250, otherwise print 3.
+70. For 24, print 1 if it is divisible by 8, otherwise print 2 if it is divisible by 4, otherwise print 3.
+71. For 32, print 1 if it is smaller than 20, otherwise print 2 if it is smaller than 40, otherwise print 3.
+72. For 42, print 1 if it is positive and even, otherwise print 2 if it is positive and odd, otherwise print 3.
+73. For -15, print 1 if it is negative and even, otherwise print 2 if it is negative and odd, otherwise print 3.
+74. For 17, print 1 if it is divisible by 2, otherwise print 2 if it is divisible by 5, otherwise print 3.
+75. For 80, print 1 if it is greater than 75, otherwise print 2 if it is between 25 and 75, otherwise print 3.
+76. For 35, print 1 if it is less than 10, otherwise print 2 if it is between 10 and 50, otherwise print 3.
+77. For 30, print 1 if it is divisible by 10, otherwise print 2 if it is divisible by 2, otherwise print 3.
+78. For 750, print 1 if it is greater than 1000, otherwise print 2 if it is greater than 500, otherwise print 3.
+79. For 27, print 1 if it is a multiple of 3, otherwise print 2 if it is a multiple of 2, otherwise print 3.
+80. For 150, print 1 if it is smaller than 100, otherwise print 2 if it is smaller than 200, otherwise print 3.
+81. For 45, print 1 if it is between 20 and 30, otherwise print 2 if it is between 40 and 50, otherwise print 3.
+82. For 55, print 1 if it is divisible by 11, otherwise print 2 if it is divisible by 5, otherwise print 3.
+83. For 46, print 1 if it is even and greater than 20, otherwise print 2 if it is odd and greater than 20, otherwise print 3.
+84. For 13, print 1 if it is even and below 20, otherwise print 2 if it is odd and below 20, otherwise print 3.
+85. For 72, print 1 if it is positive and below 50, otherwise print 2 if it is positive and 50 or above, otherwise print 3.
+86. For -80, print 1 if it is negative and below -50, otherwise print 2 if it is negative and -50 or above, otherwise print 3.
+87. For 36, print 1 if it is divisible by 12, otherwise print 2 if it is divisible by 6, otherwise print 3.
+88. For 45, print 1 if it is divisible by 15, otherwise print 2 if it is divisible by 5, otherwise print 3.
+89. For 250, print 1 if it is greater than 300, otherwise print 2 if it is between 100 and 300, otherwise print 3.
+90. For 450, print 1 if it is smaller than 300, otherwise print 2 if it is between 300 and 600, otherwise print 3.
+91. For 91, print 1 if it is divisible by 13, otherwise print 2 if it is divisible by 7, otherwise print 3.
+92. For 16, print 1 if it is a multiple of 4, otherwise print 2 if it is a multiple of 8, otherwise print 3.
+93. For 25, print 1 if it is greater than 25, otherwise print 2 if it is equal to 25, otherwise print 3.
+94. For 75, print 1 if it is less than 75, otherwise print 2 if it is equal to 75, otherwise print 3.
+95. For 27, print 1 if it is divisible by 9, otherwise print 2 if it is divisible by 3, otherwise print 3.
+96. For 150, print 1 if it is between 100 and 200, otherwise print 2 if it is above 200, otherwise print 3.
+97. For 40, print 1 if it is between 0 and 50, otherwise print 2 if it is above 50, otherwise print 3.
+98. For -3, print 1 if it is negative, otherwise print 2 if it is zero, otherwise print 3.
+99. For 18, print 1 if it is even, otherwise print 2 if it is a multiple of 3, otherwise print 3.
